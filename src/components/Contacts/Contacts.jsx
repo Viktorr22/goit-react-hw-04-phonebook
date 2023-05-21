@@ -3,7 +3,7 @@ import {
   ContactMarkupList,
   ContactMarkupItem,
   ContactMarkupButton,
-} from './Contact.styled';
+} from './Contacts.styled';
 
 export function ContactList({ contacts, onDeleteContact }) {
   return (
